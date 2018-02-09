@@ -1,4 +1,4 @@
-0/*
+/*
   Ultrasonic Sensor
 
   This program interfaces with the ultrasonic sensor in order to read 
